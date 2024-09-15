@@ -1,0 +1,1 @@
+# aws-favicons-safari
